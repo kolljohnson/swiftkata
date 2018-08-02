@@ -1,0 +1,6 @@
+framework module Pods_swiftkataUITests {
+  umbrella header "Pods-swiftkataUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
