@@ -4,10 +4,28 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>swiftkata.xcscheme</key>
+		<key>swiftkata.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A0E235EC21136EE500EDB515</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A0E2360021136EE700EDB515</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A0E2360B21136EE700EDB515</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
